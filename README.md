@@ -1,58 +1,61 @@
 🍦 Yenikent Toros Dondurma
-Derince/Kocaeli'de geleneksel yöntemlerle üretilen taze ve doğal dondurmaların tanıtım web sitesi.
+
+Derince/Kocaeli'de geleneksel yöntemlerle üretilen taze ve doğal dondurmaların tanıtımı için hazırlanmış, modern ve kullanıcı dostu bir web sitesi projesi.
 
 📋 Özellikler
 
-Dinamik Slider — 5 slaytlık otomatik geçişli hero carousel
+Dinamik Slider — 5 slaytlık, otomatik geçişli modern hero carousel.
 
-Ürün Galerisi — 21 farklı dondurma çeşidinin kartlarla sunumu
+Ürün Galerisi — 21 farklı dondurma çeşidinin şık kart tasarımlarıyla sunumu.
 
-Fiyat Listesi — Şık ve modern fiyat menüsü
+Fiyat Listesi — Kolay okunabilir, modern fiyat menüsü.
 
-İletişim & Konum — Google Maps entegrasyonu ile yol tarifi
+İletişim & Konum — Google Maps entegrasyonu ile doğrudan yol tarifi.
 
-Responsive Tasarım — Mobil, tablet ve masaüstü uyumlu
+Responsive Tasarım — Mobil, tablet ve masaüstü cihazlarla tam uyum.
 
-SEO Uyumlu — Open Graph meta etiketleri ile sosyal medya paylaşım desteği
+SEO Uyumlu — Sosyal medya paylaşımları için Open Graph meta etiketleri desteği.
 
 🛠️ Kullanılan Teknolojiler
 
-HTML5	Sayfa yapısı ve semantik işaretleme
+HTML5 — Semantik sayfa yapısı.
 
-CSS3	Özel stil ve animasyonlar
+CSS3 — Özel stil çalışmaları ve akıcı animasyonlar.
 
-JavaScript	Etkileşimli bileşenler
+JavaScript — Dinamik etkileşimler ve bileşen yönetimi.
 
-Bootstrap 5.3	Responsive grid ve UI bileşenleri
+Bootstrap 5.3 — Responsive grid yapısı ve hazır UI elemanları.
 
-Font Awesome 6	İkon kütüphanesi
+Font Awesome 6 — Modern ikon setleri.
 
-Google Maps API	Harita entegrasyonu
+Google Maps API — Konum servisleri entegrasyonu.
 
 📁 Proje Yapısı
 
+Plaintext
 📦 toros-dondurma
 ├── 📄 index.html          # Ana sayfa
 ├── 📁 css/
-│   └── style.css          # Özel stiller
+│   └── style.css          # Özel CSS stilleri
 ├── 📁 js/
-│   └── script.js          # JavaScript kodları
+│   └── script.js          # JavaScript fonksiyonları
 └── 📁 img/
-    ├── logo.png           # Logo
-    ├── slider-*.png       # Slider görselleri
-    └── *.jpg              # Ürün görselleri (22 çeşit)
+    ├── logo.png           # İşletme logosu
+    ├── slider-*.png       # Ana sayfa görselleri
+    └── *.jpg              # Ürün fotoğrafları
+    
+🚀 Geliştirme Notları
 
-🚀 Kurulum
+Bu proje, hem aile işletmemize dijital bir kimlik kazandırmak hem de modern frontend teknolojilerindeki yetkinliğimi artırmak amacıyla geliştirilmiştir.
 
-Projeyi yerel ortamınızda çalıştırmak için herhangi bir kurulum gerekmez. 
+AI Desteği: Projenin geliştirme sürecinde kod optimizasyonu, problem çözme ve içerik planlaması gibi konularda yapay zekadan (LLM) asistan olarak destek alınmıştır.
 
-index.html dosyasını tarayıcınızda açmanız yeterlidir.
- 
+Görseller: Tasarımda kullanılan ürün fotoğrafları şu an için temsilidir. İşletmenin profesyonel çekimleri tamamlandığında görseller güncellenecektir.
 
-⚠️ Sorumluluk Reddi
+Logo: Proje kimliğini yansıtması adına geçici olarak yapay zeka araçları ile tasarlanmıştır.
 
-Bu proje bir eğitim/ödev projesidir. Sitede kullanılan ürün fotoğrafları Google görsellerden alınmıştır. Logo ChatGPT tarafından oluşturulmuştur. Görseller ticari amaçla kullanılmamaktadır.
+💻 Kurulum
 
-📄 Lisans
+Projeyi yerel ortamınızda çalıştırmak için herhangi bir kurulum gerekmez. Repoyu bilgisayarınıza indirdikten sonra index.html dosyasını tarayıcınızda açmanız yeterlidir.
 
-Bu proje tüm hakları saklıdır. © Yenikent Toros Dondurma
+© 2026 Yenikent Toros Dondurma - Emir tarafından geliştirilmiştir.
